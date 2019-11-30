@@ -1,0 +1,20 @@
+{
+  "name": "mocha-perfecto-sample",
+  "version": "1.0.0",
+  "description": "Sample Mocha Perfecto integrated project",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/mocha"
+  },
+  "author": "Jack Deng, Perfecto PS",
+  "license": "ISC",
+  "dependencies": {
+    "moch": "0.0.1",
+    "perfecto-reporting": "^2.5.3"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.2",
+    "selenium-webdriver": "^4.0.0-alpha.5"
+  }
+}
