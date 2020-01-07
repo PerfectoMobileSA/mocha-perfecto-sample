@@ -1,4 +1,5 @@
 # mocha-perfecto-sample
 
-It's a simple Mocha + Selenium project, enables you to connect Perfecto.
-Adding a PerReportHelper.js to autommatically report results into Perfecto Smart Reporting system
+This is a sample Mocha + Selenium project which enables you to connect with Perfecto.
+
+This sample project contains a file named PerReportHelper.js which assists in automatically reporting results into Perfecto's Smart Reporting system
